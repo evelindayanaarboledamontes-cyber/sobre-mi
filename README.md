@@ -30,3 +30,8 @@ Revisé proyectos públicos de formularios de login y noté que los buenos repos
 ## 📫 Contacto
 - GitHub:Evelin-Montes(https://github.com/tu-usuario)
 - Correo: evelindayanaarboledamontes@gmail.com
+
+## Mis proyectos
+
+- [mis-metas](https://github.com/evelindayanaarboledamontes-cyber/mis-metas): lista de mis metas personales, académicas y laborales.
+- [mi-receta](https://github.com/evelindayanaarboledamontes-cyber/mi-receta): mi receta favorita y la historia detrás de ella.
